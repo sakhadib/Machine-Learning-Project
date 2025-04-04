@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<contexto generated="2025-04-04T18:02:14Z">
+  <summary>
+    <totalFiles>21</totalFiles>
+    <totalFolders>4</totalFolders>
+    <totalSize>254343671</totalSize>
+    <mostRecentFile>D:\4_Projects\CIMSASL_2\.gitattributes</mostRecentFile>
+    <mostRecentFileModified>2025-04-04T15:37:40Z</mostRecentFileModified>
+  </summary>
+  <folder name="CIMSASL_2" path="D:\4_Projects\CIMSASL_2" fileCount="2" totalFileCount="21">
+    <readme>## Steps
+
+1. download notebook from kaggle
+2. rename it in form of [model]_[author] eg `vgg19_adib`
+3. keep it in (code)[./code/] folder
+4. commit and push.
+5. Each commit hasto have only 1 file for maintainability. As you will be uploading 3 files each. so 3 commits each.
+
+&gt; Onnoder file edit / delete koris na bhai keu 😅
+</readme>
+    <files>
+      <file name=".gitattributes" path="D:\4_Projects\CIMSASL_2\.gitattributes" type=".gitattributes" size="43" created="2025-04-04T15:37:40Z" modified="2025-04-04T15:37:40Z" accessed="2025-04-04T15:37:40Z" />
+      <file name="readme.md" path="D:\4_Projects\CIMSASL_2\readme.md" type=".md" size="336" created="2025-04-04T15:25:33Z" modified="2025-04-04T15:25:33Z" accessed="2025-04-04T15:25:33Z" />
+    </files>
+    <folder name="code" path="D:\4_Projects\CIMSASL_2\code" fileCount="16" totalFileCount="16">
+      <readme># put all the notebooks here
+
+Rename The Notebook as format [model_name]_[author_name]
+eg.
+```
+vgg16_adib
+```
+</readme>
+      <files>
+        <file name="character-densenet169-sign-language-detection.ipynb" path="D:\4_Projects\CIMSASL_2\code\character-densenet169-sign-language-detection.ipynb" type=".ipynb" size="4036801" created="2025-04-04T15:25:33Z" modified="2025-04-04T15:25:33Z" accessed="2025-04-04T15:25:33Z" />
+        <file name="character-efficientnetv2-sign-language-detection.ipynb" path="D:\4_Projects\CIMSASL_2\code\character-efficientnetv2-sign-language-detection.ipynb" type=".ipynb" size="3830529" created="2025-04-04T15:25:33Z" modified="2025-04-04T15:25:33Z" accessed="2025-04-04T15:25:33Z" />
+        <file name="character-sign-language-detection-densenet121.ipynb" path="D:\4_Projects\CIMSASL_2\code\character-sign-language-detection-densenet121.ipynb" type=".ipynb" size="3921627" created="2025-04-04T15:25:33Z" modified="2025-04-04T15:25:33Z" accessed="2025-04-04T15:25:33Z" />
+        <file name="convnextbase_minhaj.ipynb" path="D:\4_Projects\CIMSASL_2\code\convnextbase_minhaj.ipynb" type=".ipynb" size="3544880" created="2025-04-04T15:35:44Z" modified="2025-04-04T14:51:00Z" accessed="2025-04-04T15:35:44Z" />
+        <file name="convnextxlarge_minhaj.ipynb" path="D:\4_Projects\CIMSASL_2\code\convnextxlarge_minhaj.ipynb" type=".ipynb" size="3438996" created="2025-04-04T15:35:44Z" modified="2025-04-04T14:50:30Z" accessed="2025-04-04T15:35:44Z" />
+        <file name="Densenet201_Alif.ipynb" path="D:\4_Projects\CIMSASL_2\code\Densenet201_Alif.ipynb" type=".ipynb" size="4195989" created="2025-04-04T15:25:33Z" modified="2025-04-04T15:25:33Z" accessed="2025-04-04T15:25:33Z" />
+        <file name="Efficientnetb0_Alif.ipynb" path="D:\4_Projects\CIMSASL_2\code\Efficientnetb0_Alif.ipynb" type=".ipynb" size="3457437" created="2025-04-04T15:25:33Z" modified="2025-04-04T15:25:33Z" accessed="2025-04-04T15:25:33Z" />
+        <file name="efficientnetv2l_adib.ipynb" path="D:\4_Projects\CIMSASL_2\code\efficientnetv2l_adib.ipynb" type=".ipynb" size="3191785" created="2025-04-04T15:35:44Z" modified="2025-04-04T14:46:52Z" accessed="2025-04-04T15:35:44Z" />
+        <file name="Mobilenetv2_Alif.ipynb" path="D:\4_Projects\CIMSASL_2\code\Mobilenetv2_Alif.ipynb" type=".ipynb" size="4076057" created="2025-04-04T15:25:33Z" modified="2025-04-04T15:25:33Z" accessed="2025-04-04T15:25:33Z" />
+        <file name="mobilenetv3large_minhaj.ipynb" path="D:\4_Projects\CIMSASL_2\code\mobilenetv3large_minhaj.ipynb" type=".ipynb" size="3457111" created="2025-04-04T15:35:44Z" modified="2025-04-04T14:50:03Z" accessed="2025-04-04T15:35:44Z" />
+        <file name="readme.md" path="D:\4_Projects\CIMSASL_2\code\readme.md" type=".md" size="117" created="2025-04-04T15:25:33Z" modified="2025-04-04T15:25:33Z" accessed="2025-04-04T15:25:33Z" />
+        <file name="resnet101_nazifa.ipynb" path="D:\4_Projects\CIMSASL_2\code\resnet101_nazifa.ipynb" type=".ipynb" size="3649229" created="2025-04-04T15:25:33Z" modified="2025-04-04T15:25:33Z" accessed="2025-04-04T15:25:33Z" />
+        <file name="resnet152_nazifa.ipynb" path="D:\4_Projects\CIMSASL_2\code\resnet152_nazifa.ipynb" type=".ipynb" size="3867271" created="2025-04-04T15:25:33Z" modified="2025-04-04T15:25:33Z" accessed="2025-04-04T15:25:33Z" />
+        <file name="resnet50_nazifa.ipynb" path="D:\4_Projects\CIMSASL_2\code\resnet50_nazifa.ipynb" type=".ipynb" size="3372744" created="2025-04-04T15:25:33Z" modified="2025-04-04T15:25:33Z" accessed="2025-04-04T15:25:33Z" />
+        <file name="vgg16_adib.ipynb" path="D:\4_Projects\CIMSASL_2\code\vgg16_adib.ipynb" type=".ipynb" size="3109688" created="2025-04-04T15:35:44Z" modified="2025-04-04T14:47:50Z" accessed="2025-04-04T15:35:44Z" />
+        <file name="vgg19_adib.ipynb" path="D:\4_Projects\CIMSASL_2\code\vgg19_adib.ipynb" type=".ipynb" size="3208629" created="2025-04-04T15:35:44Z" modified="2025-04-04T14:48:44Z" accessed="2025-04-04T15:35:44Z" />
+      </files>
+    </folder>
+    <folder name="dataset" path="D:\4_Projects\CIMSASL_2\dataset" fileCount="2" totalFileCount="2">
+      <readme># will upload dataset soon. don't delete this folder
+</readme>
+      <files>
+        <file name="dataset.zip" path="D:\4_Projects\CIMSASL_2\dataset\dataset.zip" type=".zip" size="199984313" created="2025-04-04T15:38:10Z" modified="2025-04-04T14:58:40Z" accessed="2025-04-04T15:38:10Z" />
+        <file name="readme.md" path="D:\4_Projects\CIMSASL_2\dataset\readme.md" type=".md" size="54" created="2025-04-04T15:25:33Z" modified="2025-04-04T15:25:33Z" accessed="2025-04-04T15:25:33Z" />
+      </files>
+    </folder>
+    <folder name="docs" path="D:\4_Projects\CIMSASL_2\docs" fileCount="1" totalFileCount="1">
+      <readme># Report and other docs goes here
+</readme>
+      <files>
+        <file name="readme.md" path="D:\4_Projects\CIMSASL_2\docs\readme.md" type=".md" size="35" created="2025-04-04T15:25:33Z" modified="2025-04-04T15:25:33Z" accessed="2025-04-04T15:25:33Z" />
+      </files>
+    </folder>
+  </folder>
+</contexto>
